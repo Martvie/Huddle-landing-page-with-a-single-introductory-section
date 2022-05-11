@@ -4,8 +4,10 @@ html {
     font-family: 'Poppins', sans-serif;
 }
 
-body {}
-
+body {
+    background: url(../images/bg-desktop.svg) var(--violet) no-repeat;
+    background-size: cover;
+}
 .main {
     display: flex;
 }
