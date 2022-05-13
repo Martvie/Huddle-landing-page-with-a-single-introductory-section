@@ -45,6 +45,14 @@ body {
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.35);
 }
 
+.footer .address a {
+    margin: 10px;
+}
+
 .footer .address .icon {
     color: white;
+    font-size: 2rem;
+    padding: 10px;
+    border: solid 2px;
+    border-radius: 100%;
 }
