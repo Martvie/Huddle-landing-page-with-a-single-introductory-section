@@ -8,6 +8,12 @@ body {
     background: url(../images/bg-desktop.svg) var(--violet) no-repeat;
     background-size: cover;
 }
+
+.header img {
+    width: 200px;
+    margin: 40px;
+}
+
 .main {
     display: flex;
 }
