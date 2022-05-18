@@ -80,10 +80,16 @@ body {
     margin: 10px;
 }
 
+
+
 .footer .address .icon {
     color: white;
     font-size: 1.5rem;
     padding: 7px;
     border: solid 1px;
     border-radius: 100%;
+}
+
+.footer .address .icon:hover {
+    color: #ff53c4;
 }
