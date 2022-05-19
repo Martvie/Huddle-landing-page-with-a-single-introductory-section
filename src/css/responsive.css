@@ -1,13 +1,20 @@
-@media (max-width: 1074px){
+@media (max-width: 1200px) {
     .main img {
         max-width: 100%;
         height: 60vh;
     }
-    
+
     .main .description {
         margin-top: 0%;
     }
-    
+
+    .main .description h1 {
+        font-size: 3.6rem;
+    }
+
+    .main .description p {
+        font-size: 1.4rem;
+    }
 }
 
 @media (max-width: 840px) {
@@ -43,9 +50,10 @@
         display: flex;
         justify-content: center;
     }
-    
+
     .footer .address {
         position: static;
+        margin-top: 80px;
     }
 }
 
@@ -58,12 +66,16 @@
     .main .description h1 {
         font-size: 2.4rem;
     }
-    
+
     .main .description p {
         font-size: 1.5rem;
     }
 
     .footer {
         margin-top: 60px;
+    }
+
+    .footer .address {
+        margin-top: 20px;
     }
 }
