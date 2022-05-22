@@ -87,9 +87,9 @@ body {
     color: white;
     font-size: 1.5rem;
     padding: 8px;
-    width: 14px;
+    width: 35px;
     border: solid 2px;
-    border-radius: 500%;
+    border-radius: 50%;
 }
 
 .footer .address .icon:hover {
