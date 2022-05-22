@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-for-multidevice-screen-pifwk_4JtL)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-for-multidevice-screen-q6RvsdMbBV)
 - [Live Site URL](https://martvie.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
