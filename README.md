@@ -26,11 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/images/screenshot.jpeg)
+![desktop](./src/images/screenshot.jpeg)
+![mobile](./src/images/screenshot2.jpeg)
 
 ### Links
 
-- [Solution URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-for-multidevice-screen-0wnuhvvRHe)
 - [Live Site URL](https://martvie.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
